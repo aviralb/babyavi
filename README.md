@@ -1,6 +1,6 @@
-# Baby -The simplest math library which is under developement made by Aviral Bhardwaj CDAC!
+# Babyavi -The simplest math library which is under developement made by Aviral Bhardwaj CDAC!
 
-With baby you can perform simple logical python programs
+With babyavi you can perform simple logical python programs
 # Overview
 The baby Python was written with fast use in mind. It provides the following key features
 
@@ -15,9 +15,9 @@ just perform simple mathematical formulas
 
 ###  Getting it
 
-To download baby, either fork this github repo or simply use Pypi via pip.
+To download babyavi, either fork this github repo or simply use Pypi via pip.
 ```sh
-$ pip install babyavi==2.12
+$ pip install babyavi
 ```
 
 ### Using it
@@ -25,12 +25,12 @@ $ pip install babyavi==2.12
 Baby was programmed with ease-of-use in mind.
 
 ```Python
-from baby import maths,
+from babyavi import babyavi ,
 ```
 
 
 Page is defined by just one single  url, 
-like [https://github.com/aviralb/babyavi](https://github.com/aviralb/babyavi), a Website 
+like [https://github.com/aviralb/babyavi] (https://github.com/aviralb/babyavi), a Website 
 is a collection of such sites that belong to the same Domain. So the Website would be github as a whole, 
 with all its pages - one of them is the baby repo. So a Website consists of many webpages. 
 
